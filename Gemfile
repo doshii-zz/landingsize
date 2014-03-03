@@ -43,3 +43,11 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+gem 'compass-rails'
+gem 'haml-rails'
+
+
+
+#gem 'compass-rails' 
+
+#gem 'haml-rails'
